@@ -1,0 +1,10 @@
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\bin\Debug\chapiHashFile.exe.config
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\bin\Debug\chapiHashFile.exe
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\bin\Debug\chapiHashFile.pdb
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\obj\Debug\chapiHashFile.csprojAssemblyReference.cache
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\obj\Debug\chapiHashFile.Form1.resources
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\obj\Debug\chapiHashFile.Properties.Resources.resources
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\obj\Debug\chapiHashFile.csproj.GenerateResource.cache
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\obj\Debug\chapiHashFile.csproj.CoreCompileInputs.cache
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\obj\Debug\chapiHashFile.exe
+c:\users\nimachapi\source\repos\chapiHashFile\chapiHashFile\obj\Debug\chapiHashFile.pdb
